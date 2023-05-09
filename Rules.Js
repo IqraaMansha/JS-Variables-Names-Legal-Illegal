@@ -5,6 +5,7 @@ console.log("#4 VARIABLE NAMES: LEGAL & ILLEGAL");
 
 //  #4 VARIABLE NAMES: LEGAL & ILLEGAL
 
+
 var rules = "Rules of Variables in Javascript ...";
 alert(rules);
 
